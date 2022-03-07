@@ -3,6 +3,7 @@
 body {
   overflow-x: hidden;
   overflow-y: auto;
+  text-transform: uppercase;
 }
 .moving-letter-01 {
   width: 100%;
