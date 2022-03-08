@@ -309,8 +309,8 @@ body {
 .recommend-02-img-02 img:hover,
 .recommend-02-img-03 img:hover,
 .recommend-02-img-04 img:hover {
-  transform: scale(120%);
-  transition: all 5s linear;
+  transform: scale(9000%);
+  transition: all 50s ease-in;
 }
 .recommend-02-text-box {
   display: flex;
